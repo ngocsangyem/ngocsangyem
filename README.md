@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngocsangyem&label=Profile%20views&color=0e75b6&style=flat" alt="ngocsangyem" /> </p>
 
-- 📝 I regulary write articles on [https://ngocsangyem.io/](https://ngocsangyem.io/)
+- 📝  [https://ngocsangyem.io/](https://ngocsangyem.io/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Gulp**
+- 💬  **HTML, CSS, Javascript, Gulp**
 
-- 📫 How to reach me **nnsang24@gmail.com**
+- 📫   **nnsang24@gmail.com**
 
-- ⚡ Fun fact **I think I funny**
+- ⚡  **I think I funny**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
