@@ -5,7 +5,7 @@
 
 - 📝  [https://ngocsangyem.io/](https://ngocsangyem.io/)
 
-- 💬  **HTML, CSS, Javascript, Gulp**
+- 💬  **HTML, CSS, Javascript, Angular, Vuejs**
 
 - 📫   **nnsang24@gmail.com**
 
