@@ -1,26 +1,88 @@
-<h1 align="center">Hi 👋, I'm Sang</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<div align="center">
+<img src="https://ngocsangyem.io/assets/images/README/greetings.gif" align="center" style="width: 100%" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngocsangyem&label=Profile%20views&color=0e75b6&style=flat" alt="ngocsangyem" /> </p>
+### <div align="center">I'm Sang, a Front-end developer 👨‍💻 </div>
 
-- 📝  [https://ngocsangyem.io/](https://ngocsangyem.io/)
+- 🌱 I’m currently working and learning Vuejs
 
-- 💬  **HTML, CSS, Javascript, Angular, Vuejs**
+- ❓ Ask me about anything related to HTML/CSS/Javascript or Vuejs
 
-- 📫   **nnsang24@gmail.com**
+- ⚡ Fun fact: I use tabs over spaces
 
-- ⚡  **I think I funny**
+<br/>
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://codepen.io/ngocsangyem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ngocsangyem" height="30" width="40" /></a>
-<a href="https://twitter.com/ngocsangyem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ngocsangyem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ngocsangyem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ngocsangyem" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ngocsangyem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ngocsangyem" height="30" width="40" /></a>
-<a href="https://medium.com/@nnsang24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nnsang24" height="30" width="40" /></a>
-</p>
+## My Skill Set
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<table><tr><td valign="top" width="33%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngocsangyem&show_icons=true" alt="ngocsangyem" /></p>
+### Frontend
+
+<div align="center">  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/webpack-original.svg" alt="Webpack" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/adobexd.png" alt="Adobe XD" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/gulp-plain.svg" alt="gulp.js" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/angular.svg" alt="Angular" height="50" />  
+</div>
+
+</td></tr></table>
+
+<br/>
+
+## Connect with me
+
+<div align="center">
+<a href="https://github.com/ngocsangyem" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/ngocsangyem" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ngocsangyem" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/ngocsangyem" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/ngocsangyem" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a> 
+</div>
+
+<br/>
+
+## Github Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngocsangyem&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ngocsangyem&&style=flat-square" align="center" />
+</div>
+
+<br/>
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/ngocsangyem" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<br />
