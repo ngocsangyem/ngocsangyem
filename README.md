@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ngocsangyem.io/assets/images/README/greetings.gif" align="center" style="width: 100%" />
+<img src="https://ngocsangyem.vercel.app/assets/images/README/greetings.gif" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">I'm Sang, a Front-end developer 👨‍💻 </div>
@@ -19,23 +19,23 @@
 ### Frontend
 
 <div align="center">  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/webpack-original.svg" alt="Webpack" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/gulp-plain.svg" alt="gulp.js" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://ngocsangyem.io/assets/images/README/angular.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/webpack-original.svg" alt="Webpack" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/adobexd.png" alt="Adobe XD" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/gulp-plain.svg" alt="gulp.js" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://ngocsangyem.vercel.app/assets/images/README/angular.svg" alt="Angular" height="50" />  
 </div>
 
 </td></tr></table>
