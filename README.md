@@ -4,9 +4,9 @@
 
 ### <div align="center">I'm Sang, a Front-end developer 👨‍💻 </div>
 
-- 🌱 I’m currently working and learning Vuejs
+- 🌱 I’m currently working and learning Vuejs and Reactjs
 
-- ❓ Ask me about anything related to HTML/CSS/Javascript or Vuejs
+- ❓ Ask me about anything related to HTML/CSS/Javascript
 
 - ⚡ Fun fact: I use tabs over spaces
 
